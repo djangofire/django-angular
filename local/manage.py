@@ -1,0 +1,1 @@
+/home/pycon/Desktop/django-angular/api_crud/manage.py
